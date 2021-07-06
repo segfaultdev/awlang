@@ -1,0 +1,10 @@
+func start def x begin
+  set x 150
+
+  if equ x 5 begin
+    print "Wait wot"
+  end
+  else begin
+    print "Hi!\n"
+  end
+end
